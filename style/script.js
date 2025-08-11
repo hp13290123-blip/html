@@ -20,7 +20,7 @@ ageButtons.forEach(btn => {
       agePopup.innerHTML = `
         <center><img src="https://i.pinimg.com/736x/81/f1/74/81f17472464b344c13286ef3ef2ab794.jpg" alt="Wrong" style="width: 120px;"/></center>
         <h2>Ủa là sao dị bà? 😤</h2>
-        <p>Cho mi chọn lại 1 lần nữa đó!!!</p>
+        <p>Cho Muội chọn lại 1 lần nữa đó!!!</p>
         <button class="close-btn" onclick="location.reload()">Cho đoán lại đó 🫤</button>
       `;
     }
