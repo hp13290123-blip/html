@@ -74,9 +74,8 @@ const musicBtn = document.getElementById("music-btn");
   const messages = [
     "Sinh nhật dui dẻ nha Muội, quý lắm mới chúc á nha 💝🎂.",
     "Tuổi mới chúc Muội thật nhiều hạnh phúc và sức khỏe dồi dào! 🎉✨.",
-    "Chúc cho Muội luôn thành công, làm gì cũng thuận lợi 🥰🍀.",
-    "Thêm một tuổi mới, sẽ có thật nhiều điều mới đến với Muội 🤗💞.",
-    "Luôn vui vẻ tươi cười như hoa,đừng buồn với những điều không đáng, cười nhiều lên Muội cười xinh hơnn ❤️🎈",
+    "Thêm một tuổi mới, sẽ có thật nhiều điều mới đến với Muội, có được những điều mình muốn 🤗💞.",
+    "Luôn vui vẻ tươi cười như hoa, đừng buồn với những điều không đáng, cười nhiều lên Muội cười xinh hơnn ❤️🎈",
     "Huynh vẫn sẽ luôn ở bên cạnh lúc Muội cần❤️"
   ];
   const typingTextElem = document.getElementById("typing-text");
